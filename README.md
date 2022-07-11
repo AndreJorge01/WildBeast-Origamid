@@ -1,4 +1,4 @@
-<h1>WildBeast<h1>
+<h1>WildBeast.<h1>
 
 ![AnimaçãoWildBeast](https://user-images.githubusercontent.com/86026272/137025260-c879f17c-dad1-44fb-876d-041029801114.gif)
   
