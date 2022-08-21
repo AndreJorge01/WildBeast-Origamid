@@ -8,4 +8,4 @@
 ### technologies used.
 + CSS3.
 + HTML5.
-+ Visual studio code
++ Visual studio code.
